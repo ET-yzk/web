@@ -11,7 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71b80d3e-9d4f-4a32-8cd9-914511b775cf" name="默认的" comment="code update">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phpinfo.php" beforeDir="false" afterPath="$PROJECT_DIR$/phpinfo.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +25,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2">
+    <include_path>
+      <path value="/usr/share/php" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1kYeeU8aMku7RBOxjGSSfuPsFPI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -34,15 +39,10 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RunManager">
-    <configuration name="acm" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -53,7 +53,8 @@
       <option name="presentableId" value="Default" />
       <updated>1605879892794</updated>
       <workItem from="1605879894835" duration="1281000" />
-      <workItem from="1605882052543" duration="186000" />
+      <workItem from="1605882052543" duration="847000" />
+      <workItem from="1605885046617" duration="1163000" />
     </task>
     <task id="LOCAL-00001" summary="code update">
       <created>1605882152862</created>
@@ -62,7 +63,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605882152862</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="code update">
+      <created>1605882294414</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605882294414</updated>
+    </task>
+    <task id="LOCAL-00003" summary="code update">
+      <created>1605882372097</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605882372097</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,18 +107,40 @@
       <screen x="62" y="34" width="1852" height="874" />
     </state>
     <state x="62" y="34" width="638" height="874" key="#PHP/62.34.1852.874@62.34.1852.874" timestamp="1605882232799" />
-    <state x="442" y="78" width="1092" height="830" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605882238862">
-      <screen x="62" y="34" width="1852" height="874" />
+    <state x="443" y="80" width="1092" height="830" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605886105824">
+      <screen x="62" y="34" width="1856" height="932" />
     </state>
     <state x="442" y="78" width="1092" height="830" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.34.1852.874@62.34.1852.874" timestamp="1605882238862" />
+    <state x="443" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.34.1856.932@62.34.1856.932" timestamp="1605886105824" />
     <state x="848" y="343" width="279" height="263" key="Github.ShareDialog" timestamp="1605881177944">
       <screen x="62" y="34" width="1852" height="874" />
     </state>
     <state x="848" y="343" width="279" height="263" key="Github.ShareDialog/62.34.1852.874@62.34.1852.874" timestamp="1605881177944" />
-    <state x="345" y="34" width="1276" height="874" key="SettingsEditor" timestamp="1605882069707">
-      <screen x="62" y="34" width="1852" height="874" />
+    <state width="1788" height="198" key="GridCell.Tab.0.bottom" timestamp="1605886174933">
+      <screen x="62" y="34" width="1856" height="932" />
+    </state>
+    <state width="1788" height="198" key="GridCell.Tab.0.bottom/62.34.1852.874@62.34.1852.874" timestamp="1605882900401" />
+    <state width="1788" height="198" key="GridCell.Tab.0.bottom/62.34.1856.932@62.34.1856.932" timestamp="1605886174933" />
+    <state width="1788" height="198" key="GridCell.Tab.0.center" timestamp="1605886174932">
+      <screen x="62" y="34" width="1856" height="932" />
+    </state>
+    <state width="1788" height="198" key="GridCell.Tab.0.center/62.34.1852.874@62.34.1852.874" timestamp="1605882900399" />
+    <state width="1788" height="198" key="GridCell.Tab.0.center/62.34.1856.932@62.34.1856.932" timestamp="1605886174932" />
+    <state width="1788" height="198" key="GridCell.Tab.0.left" timestamp="1605886174931">
+      <screen x="62" y="34" width="1856" height="932" />
+    </state>
+    <state width="1788" height="198" key="GridCell.Tab.0.left/62.34.1852.874@62.34.1852.874" timestamp="1605882900398" />
+    <state width="1788" height="198" key="GridCell.Tab.0.left/62.34.1856.932@62.34.1856.932" timestamp="1605886174931" />
+    <state width="1788" height="198" key="GridCell.Tab.0.right" timestamp="1605886174932">
+      <screen x="62" y="34" width="1856" height="932" />
+    </state>
+    <state width="1788" height="198" key="GridCell.Tab.0.right/62.34.1852.874@62.34.1852.874" timestamp="1605882900399" />
+    <state width="1788" height="198" key="GridCell.Tab.0.right/62.34.1856.932@62.34.1856.932" timestamp="1605886174932" />
+    <state x="346" y="34" width="1286" height="912" key="SettingsEditor" timestamp="1605886413779">
+      <screen x="62" y="34" width="1856" height="932" />
     </state>
     <state x="345" y="34" width="1276" height="874" key="SettingsEditor/62.34.1852.874@62.34.1852.874" timestamp="1605882069707" />
+    <state x="346" y="34" width="1286" height="912" key="SettingsEditor/62.34.1856.932@62.34.1856.932" timestamp="1605886413779" />
     <state x="483" y="143" width="1000" height="662" key="Vcs.Push.Dialog.v2" timestamp="1605882159490">
       <screen x="62" y="34" width="1852" height="874" />
     </state>
