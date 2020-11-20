@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71b80d3e-9d4f-4a32-8cd9-914511b775cf" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71b80d3e-9d4f-4a32-8cd9-914511b775cf" name="默认的" comment="" />
+      <created>1605879892794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605879892794</updated>
+      <workItem from="1605879894835" duration="1281000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="848" y="343" width="279" height="263" key="Github.ShareDialog" timestamp="1605881177944">
+      <screen x="62" y="34" width="1852" height="874" />
+    </state>
+    <state x="848" y="343" width="279" height="263" key="Github.ShareDialog/62.34.1852.874@62.34.1852.874" timestamp="1605881177944" />
+    <state x="345" y="34" width="1276" height="874" key="SettingsEditor" timestamp="1605879925837">
+      <screen x="62" y="34" width="1852" height="874" />
+    </state>
+    <state x="345" y="34" width="1276" height="874" key="SettingsEditor/62.34.1852.874@62.34.1852.874" timestamp="1605879925837" />
+  </component>
+</project>
