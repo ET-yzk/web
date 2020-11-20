@@ -13,7 +13,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71b80d3e-9d4f-4a32-8cd9-914511b775cf" name="默认的" comment="code update" />
+    <list default="true" id="71b80d3e-9d4f-4a32-8cd9-914511b775cf" name="默认的" comment="code update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,9 +42,20 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="phpinfo.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/phpinfo.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP 脚本.phpinfo.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,6 +68,7 @@
       <workItem from="1605879894835" duration="1281000" />
       <workItem from="1605882052543" duration="847000" />
       <workItem from="1605885046617" duration="1221000" />
+      <workItem from="1605886656449" duration="310000" />
     </task>
     <task id="LOCAL-00001" summary="code update">
       <created>1605882152862</created>
@@ -84,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605886482522</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="code update">
+      <created>1605886675172</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605886675172</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,35 +144,35 @@
       <screen x="62" y="34" width="1852" height="874" />
     </state>
     <state x="848" y="343" width="279" height="263" key="Github.ShareDialog/62.34.1852.874@62.34.1852.874" timestamp="1605881177944" />
-    <state width="1788" height="198" key="GridCell.Tab.0.bottom" timestamp="1605886536738">
+    <state width="1788" height="198" key="GridCell.Tab.0.bottom" timestamp="1605886779266">
       <screen x="62" y="34" width="1856" height="932" />
     </state>
     <state width="1788" height="198" key="GridCell.Tab.0.bottom/62.34.1852.874@62.34.1852.874" timestamp="1605882900401" />
-    <state width="1788" height="198" key="GridCell.Tab.0.bottom/62.34.1856.932@62.34.1856.932" timestamp="1605886536738" />
-    <state width="1788" height="198" key="GridCell.Tab.0.center" timestamp="1605886536736">
+    <state width="1788" height="198" key="GridCell.Tab.0.bottom/62.34.1856.932@62.34.1856.932" timestamp="1605886779266" />
+    <state width="1788" height="198" key="GridCell.Tab.0.center" timestamp="1605886779265">
       <screen x="62" y="34" width="1856" height="932" />
     </state>
     <state width="1788" height="198" key="GridCell.Tab.0.center/62.34.1852.874@62.34.1852.874" timestamp="1605882900399" />
-    <state width="1788" height="198" key="GridCell.Tab.0.center/62.34.1856.932@62.34.1856.932" timestamp="1605886536736" />
-    <state width="1788" height="198" key="GridCell.Tab.0.left" timestamp="1605886536735">
+    <state width="1788" height="198" key="GridCell.Tab.0.center/62.34.1856.932@62.34.1856.932" timestamp="1605886779265" />
+    <state width="1788" height="198" key="GridCell.Tab.0.left" timestamp="1605886779264">
       <screen x="62" y="34" width="1856" height="932" />
     </state>
     <state width="1788" height="198" key="GridCell.Tab.0.left/62.34.1852.874@62.34.1852.874" timestamp="1605882900398" />
-    <state width="1788" height="198" key="GridCell.Tab.0.left/62.34.1856.932@62.34.1856.932" timestamp="1605886536735" />
-    <state width="1788" height="198" key="GridCell.Tab.0.right" timestamp="1605886536737">
+    <state width="1788" height="198" key="GridCell.Tab.0.left/62.34.1856.932@62.34.1856.932" timestamp="1605886779264" />
+    <state width="1788" height="198" key="GridCell.Tab.0.right" timestamp="1605886779265">
       <screen x="62" y="34" width="1856" height="932" />
     </state>
     <state width="1788" height="198" key="GridCell.Tab.0.right/62.34.1852.874@62.34.1852.874" timestamp="1605882900399" />
-    <state width="1788" height="198" key="GridCell.Tab.0.right/62.34.1856.932@62.34.1856.932" timestamp="1605886536737" />
+    <state width="1788" height="198" key="GridCell.Tab.0.right/62.34.1856.932@62.34.1856.932" timestamp="1605886779265" />
     <state x="346" y="34" width="1286" height="912" key="SettingsEditor" timestamp="1605886413779">
       <screen x="62" y="34" width="1856" height="932" />
     </state>
     <state x="345" y="34" width="1276" height="874" key="SettingsEditor/62.34.1852.874@62.34.1852.874" timestamp="1605882069707" />
     <state x="346" y="34" width="1286" height="912" key="SettingsEditor/62.34.1856.932@62.34.1856.932" timestamp="1605886413779" />
-    <state x="484" y="150" width="1000" height="662" key="Vcs.Push.Dialog.v2" timestamp="1605886486328">
+    <state x="484" y="150" width="1000" height="662" key="Vcs.Push.Dialog.v2" timestamp="1605886744820">
       <screen x="62" y="34" width="1856" height="932" />
     </state>
     <state x="483" y="143" width="1000" height="662" key="Vcs.Push.Dialog.v2/62.34.1852.874@62.34.1852.874" timestamp="1605882159490" />
-    <state x="484" y="150" key="Vcs.Push.Dialog.v2/62.34.1856.932@62.34.1856.932" timestamp="1605886486328" />
+    <state x="484" y="150" width="1000" height="662" key="Vcs.Push.Dialog.v2/62.34.1856.932@62.34.1856.932" timestamp="1605886744820" />
   </component>
 </project>
