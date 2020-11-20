@@ -10,8 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71b80d3e-9d4f-4a32-8cd9-914511b775cf" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/phpinfo.php" afterDir="false" />
+    <list default="true" id="71b80d3e-9d4f-4a32-8cd9-914511b775cf" name="默认的" comment="code update">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
   <component name="ProjectId" id="1kYeeU8aMku7RBOxjGSSfuPsFPI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -31,10 +32,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="acm" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -45,8 +53,16 @@
       <option name="presentableId" value="Default" />
       <updated>1605879892794</updated>
       <workItem from="1605879894835" duration="1281000" />
-      <workItem from="1605882052543" duration="17000" />
+      <workItem from="1605882052543" duration="186000" />
     </task>
+    <task id="LOCAL-00001" summary="code update">
+      <created>1605882152862</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605882152862</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,8 +84,18 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/桌面/杂项/c" />
     </ignored-roots>
+    <MESSAGE value="code update" />
+    <option name="LAST_COMMIT_MESSAGE" value="code update" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="62" y="34" width="638" height="874" key="#PHP" timestamp="1605882232799">
+      <screen x="62" y="34" width="1852" height="874" />
+    </state>
+    <state x="62" y="34" width="638" height="874" key="#PHP/62.34.1852.874@62.34.1852.874" timestamp="1605882232799" />
+    <state x="442" y="78" width="1092" height="830" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605882238862">
+      <screen x="62" y="34" width="1852" height="874" />
+    </state>
+    <state x="442" y="78" width="1092" height="830" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.34.1852.874@62.34.1852.874" timestamp="1605882238862" />
     <state x="848" y="343" width="279" height="263" key="Github.ShareDialog" timestamp="1605881177944">
       <screen x="62" y="34" width="1852" height="874" />
     </state>
@@ -78,5 +104,9 @@
       <screen x="62" y="34" width="1852" height="874" />
     </state>
     <state x="345" y="34" width="1276" height="874" key="SettingsEditor/62.34.1852.874@62.34.1852.874" timestamp="1605882069707" />
+    <state x="483" y="143" width="1000" height="662" key="Vcs.Push.Dialog.v2" timestamp="1605882159490">
+      <screen x="62" y="34" width="1852" height="874" />
+    </state>
+    <state x="483" y="143" width="1000" height="662" key="Vcs.Push.Dialog.v2/62.34.1852.874@62.34.1852.874" timestamp="1605882159490" />
   </component>
 </project>
