@@ -1,5 +1,5 @@
 <?php
-$host="127.0.0.1";
+$host="192.168.44.130";
 $userName="test";
 $password="Abc123456.";
 if($connID=mysqli_connect($host,$userName,$password)) {
