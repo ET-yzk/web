@@ -13,10 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71b80d3e-9d4f-4a32-8cd9-914511b775cf" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="71b80d3e-9d4f-4a32-8cd9-914511b775cf" name="默认的" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +57,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
@@ -69,7 +66,7 @@
     <property name="database.data.extractors.current.export.id" value="逗号分隔(CSV)_id" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../OJ" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.php.debug.servers" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -109,7 +106,7 @@
       <workItem from="1605951695000" duration="74000" />
       <workItem from="1605951995869" duration="3134000" />
       <workItem from="1605958590897" duration="342000" />
-      <workItem from="1605960390265" duration="1005000" />
+      <workItem from="1605960390265" duration="1619000" />
     </task>
     <task id="LOCAL-00001" summary="code update">
       <created>1605882152862</created>
@@ -188,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605925639517</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="code update">
+      <created>1605961470847</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605961470847</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,15 +264,19 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="824" y="262" key="#部署/0.0.1920.1080@0.0.1920.1080" timestamp="1605960562905" />
-    <state x="653" y="0" key="CommitChangelistDialog2" timestamp="1605925638552">
+    <state x="653" y="0" key="CommitChangelistDialog2" timestamp="1605961469739">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="435" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1605893422095" />
-    <state x="653" y="0" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1605925638552" />
+    <state x="653" y="0" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1605961469739" />
     <state x="640" y="294" key="DUMP_DIALOG_DIMENSION_KEY" timestamp="1605922652703">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="640" y="294" key="DUMP_DIALOG_DIMENSION_KEY/0.0.1920.1080@0.0.1920.1080" timestamp="1605922652703" />
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog" timestamp="1605962012111">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605962012111" />
     <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1605960998019">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -309,11 +317,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="248" height="477" key="HiddenNamespacesPopup/0.0.1920.1080@0.0.1920.1080" timestamp="1605922431117" />
-    <state x="387" y="0" width="914" height="707" key="SettingsEditor" timestamp="1605961231066">
+    <state x="342" y="136" width="914" height="707" key="SettingsEditor" timestamp="1605961783647">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="258" y="0" width="914" height="707" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1605893162394" />
-    <state x="387" y="0" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605961231066" />
+    <state x="342" y="136" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605961783647" />
     <state x="345" y="34" width="1276" height="874" key="SettingsEditor/62.34.1852.874@62.34.1852.874" timestamp="1605882069707" />
     <state x="346" y="34" width="1286" height="912" key="SettingsEditor/62.34.1856.932@62.34.1856.932" timestamp="1605886413779" />
     <state x="307" y="32" width="1000" height="662" key="Vcs.Push.Dialog.v2" timestamp="1605925650001">
