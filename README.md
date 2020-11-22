@@ -1,10 +1,21 @@
 ## 项目记录
 
-`web/template:网页主题文件夹` 针对很多学校希望自定义OJ界面风格的需求，对原代码进行了初步的模板分离，在template目录下存放模板，原有风格定义为classic。
+`web/template:网页主题文件夹` 
+
+- 针对很多学校希望自定义OJ界面风格的需求，对原代码进行了模板分离，
+
+- 在template目录下存放模板，原有风格定义为classic。
 
 - 在include/db_info.inc.php文件中$OJ_TEMPLATE用于指定模板名。
 
-### spj:`判题相关`
+##### `spj:判题相关`
+- -
+##### `web/mysql/judge--分布式部署方案`
+- web：前台网页显示
+
+- mysql：后台数据库
+
+- *judge：后台判题机制
 
 ---
 
