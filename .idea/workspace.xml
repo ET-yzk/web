@@ -16,8 +16,6 @@
     <list default="true" id="71b80d3e-9d4f-4a32-8cd9-914511b775cf" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sae/db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sae/db.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swadmin/msg.txt" beforeDir="false" afterPath="$PROJECT_DIR$/swadmin/msg.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +146,7 @@
       <workItem from="1605958590897" duration="342000" />
       <workItem from="1605960390265" duration="3472000" />
       <workItem from="1606037120038" duration="6399000" />
-      <workItem from="1606210191779" duration="757000" />
+      <workItem from="1606210191779" duration="1393000" />
     </task>
     <task id="LOCAL-00001" summary="code update">
       <created>1605882152862</created>
@@ -262,7 +260,28 @@
       <option name="project" value="LOCAL" />
       <updated>1606042996788</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="code update">
+      <created>1606210962892</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1606210962892</updated>
+    </task>
+    <task id="LOCAL-00018" summary="code update">
+      <created>1606210993228</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1606210993228</updated>
+    </task>
+    <task id="LOCAL-00019" summary="code update">
+      <created>1606211032393</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1606211032393</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,11 +353,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="824" y="262" key="#部署/0.0.1920.1080@0.0.1920.1080" timestamp="1605960562905" />
-    <state x="653" y="0" key="CommitChangelistDialog2" timestamp="1606042996120">
+    <state x="653" y="0" key="CommitChangelistDialog2" timestamp="1606211031662">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="435" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1605893422095" />
-    <state x="653" y="0" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1606042996120" />
+    <state x="653" y="0" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1606211031662" />
     <state x="640" y="294" key="DUMP_DIALOG_DIMENSION_KEY" timestamp="1605922652703">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
