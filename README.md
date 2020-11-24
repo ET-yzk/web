@@ -97,7 +97,7 @@ $(document).ready(function () {
 ## 七、图片
 
 
-![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png "RUNOOB")
+![NOOB 图标](http://static.runoob.com/images/runoob-logo.png "NOOB")
 ###### 第二个鼠标置于图上现示注释部分，可不写，链接同
 
 ---
