@@ -9,6 +9,8 @@
 - 在include/db_info.inc.php文件中$OJ_TEMPLATE用于指定模板名。
 
 ##### `spj:判题相关`
+
+##### `sea：DB`
 - -
 ##### `web/mysql/judge--分布式部署方案`
 - web：前台网页显示
