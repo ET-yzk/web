@@ -13,11 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71b80d3e-9d4f-4a32-8cd9-914511b775cf" name="默认的" comment="code update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phpinfo.php" beforeDir="false" afterPath="$PROJECT_DIR$/test/phpinfo.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1.php" beforeDir="false" afterPath="$PROJECT_DIR$/test/test1.php" afterDir="false" />
-    </list>
+    <list default="true" id="71b80d3e-9d4f-4a32-8cd9-914511b775cf" name="默认的" comment="code update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +56,11 @@
   </component>
   <component name="RunManager">
     <configuration name="phpinfo.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/test/phpinfo.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -80,6 +81,7 @@
       <workItem from="1605882052543" duration="847000" />
       <workItem from="1605885046617" duration="1221000" />
       <workItem from="1605886656449" duration="1293000" />
+      <workItem from="1606180879634" duration="90000" />
     </task>
     <task id="LOCAL-00001" summary="code update">
       <created>1605882152862</created>
@@ -156,13 +158,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="code update" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="542" y="225" width="824" height="691" key="#CLI_Interpreters" timestamp="1606180945973">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="542" y="225" width="824" height="691" key="#CLI_Interpreters/0.27.1920.1053@0.27.1920.1053" timestamp="1606180945973" />
     <state x="62" y="34" width="638" height="874" key="#PHP" timestamp="1605882232799">
       <screen x="62" y="34" width="1852" height="874" />
     </state>
     <state x="62" y="34" width="638" height="874" key="#PHP/62.34.1852.874@62.34.1852.874" timestamp="1605882232799" />
-    <state x="443" y="80" width="1092" height="830" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605886105824">
-      <screen x="62" y="34" width="1856" height="932" />
+    <state x="394" y="66" width="1130" height="1014" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606180969090">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
+    <state x="394" y="66" width="1130" height="1014" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1606180969090" />
     <state x="442" y="78" width="1092" height="830" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.34.1852.874@62.34.1852.874" timestamp="1605882238862" />
     <state x="443" y="80" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.34.1856.932@62.34.1856.932" timestamp="1605886105824" />
     <state x="661" y="253" width="483" height="457" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605887683464">
