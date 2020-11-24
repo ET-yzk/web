@@ -12,7 +12,7 @@
 ##### `sae:创建数据库`
 ##### `swadmin:公告编辑器页面相关？`
 - -
-##### `web/mysql/judge--分布式部署方案`
+#### `web/mysql/judge--分布式部署方案`
 - web：前台网页显示
 
 - mysql：后台数据库
