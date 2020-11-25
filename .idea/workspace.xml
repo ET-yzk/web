@@ -14,6 +14,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71b80d3e-9d4f-4a32-8cd9-914511b775cf" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +23,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
-    <execution />
+    <execution>
+      <executable path="composer" />
+    </execution>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -31,6 +34,13 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/ET-yzk/web" />
+      </set>
+    </option>
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -48,7 +58,11 @@
     </servers>
   </component>
   <component name="PhpWebServerValidation" deployment_server_id="6105166a-20ab-4db1-a01d-514643eb6866" path_to_validation_script="D:\.Earth\.Lib_yzk\web" selected_validation_type="REMOTE" web_path_to_validation_script="http://192.168.44.130:9000" />
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="root@192.168.44.130:22 password" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="root@192.168.44.130:22 password">
+    <include_path>
+      <path value="" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1kYeeU8aMku7RBOxjGSSfuPsFPI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -62,9 +76,9 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
-    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
-    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="true" />
     <property name="database.data.extractors.current.export.id" value="逗号分隔(CSV)_id" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../OJ" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -146,7 +160,7 @@
       <workItem from="1605960390265" duration="3472000" />
       <workItem from="1606037120038" duration="6399000" />
       <workItem from="1606210191779" duration="1400000" />
-      <workItem from="1606320838190" duration="793000" />
+      <workItem from="1606320838190" duration="1635000" />
     </task>
     <task id="LOCAL-00001" summary="code update">
       <created>1605882152862</created>
@@ -295,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606321130535</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="code update">
+      <created>1606321697593</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1606321697593</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,26 +389,28 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="824" y="262" key="#部署/0.0.1920.1080@0.0.1920.1080" timestamp="1605960562905" />
-    <state x="435" y="0" key="CommitChangelistDialog2" timestamp="1606321128109">
+    <state x="435" y="0" key="CommitChangelistDialog2" timestamp="1606321696042">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="435" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1606321128109" />
+    <state x="435" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1606321696042" />
     <state x="653" y="0" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1606211603052" />
     <state x="640" y="294" key="DUMP_DIALOG_DIMENSION_KEY" timestamp="1605922652703">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="640" y="294" key="DUMP_DIALOG_DIMENSION_KEY/0.0.1920.1080@0.0.1920.1080" timestamp="1605922652703" />
-    <state x="92" y="92" width="1736" height="896" key="DiffContextDialog" timestamp="1605962012111">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="61" y="61" width="1158" height="598" key="DiffContextDialog" timestamp="1606322489932">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
+    <state x="61" y="61" width="1158" height="598" key="DiffContextDialog/0.0.1280.720@0.0.1280.720" timestamp="1606322489932" />
     <state x="92" y="92" width="1736" height="896" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605962012111" />
     <state x="92" y="92" width="1736" height="896" key="DirDiffDialog" timestamp="1605963418734">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="92" y="92" width="1736" height="896" key="DirDiffDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605963418734" />
-    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1605960998019">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="493" y="196" key="FileChooserDialogImpl" timestamp="1606321765105">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
+    <state x="493" y="196" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1606321765105" />
     <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1605960998019" />
     <state x="848" y="343" width="279" height="263" key="Github.ShareDialog" timestamp="1605881177944">
       <screen x="62" y="34" width="1852" height="874" />
@@ -457,10 +480,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="248" height="477" key="HiddenNamespacesPopup/0.0.1920.1080@0.0.1920.1080" timestamp="1605922431117" />
-    <state x="258" y="0" width="914" height="707" key="SettingsEditor" timestamp="1606321644092">
+    <state x="258" y="0" width="914" height="707" key="SettingsEditor" timestamp="1606322208004">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="258" y="0" width="914" height="707" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1606321644092" />
+    <state x="258" y="0" width="914" height="707" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1606322208004" />
     <state x="342" y="136" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605961783647" />
     <state x="345" y="34" width="1276" height="874" key="SettingsEditor/62.34.1852.874@62.34.1852.874" timestamp="1605882069707" />
     <state x="346" y="34" width="1286" height="912" key="SettingsEditor/62.34.1856.932@62.34.1856.932" timestamp="1605886413779" />
@@ -483,10 +506,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="685" y="138" width="549" height="804" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1606037304358" />
-    <state x="703" y="181" key="ftp.server.browser" timestamp="1606321618997">
+    <state x="703" y="181" key="ftp.server.browser" timestamp="1606322015482">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="703" y="181" key="ftp.server.browser/0.0.1280.720@0.0.1280.720" timestamp="1606321618997" />
+    <state x="703" y="181" key="ftp.server.browser/0.0.1280.720@0.0.1280.720" timestamp="1606322015482" />
     <state x="1054" y="334" key="ftp.server.browser/0.0.1920.1080@0.0.1920.1080" timestamp="1605960560907" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1606039999708">
       <screen x="0" y="0" width="1920" height="1080" />
